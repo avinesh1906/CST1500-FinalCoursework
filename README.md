@@ -1,5 +1,5 @@
 # CST1500-FinalCoursework
-This aim of  the project is to design a calculator using Python.
+The aim of  the project is to design a calculator using Python.
 This project is based on creating a fully functional GUI calculator using Python libraries. The calculator allows a user to carry out both basic and scientific calculations.
 Basic calculations include the following mathematic expressions:
 1)	Addition and Subtraction
